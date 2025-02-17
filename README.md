@@ -18,8 +18,8 @@ The MetaHuman DNA Calibration repository contains two distinct tools:
 
 ## Required Knowledge
 To use these tools, you should be familiar with:
-- Rigging in Maya
-- Python
+- Rigging in Maya.
+- Python.
 
 ## Optional Knowledge
 - C++ (for [DNACalib](docs/dnacalib.md) and its [API](docs/dnacalib_api.md))
